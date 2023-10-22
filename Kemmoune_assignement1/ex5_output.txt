@@ -1,0 +1,1 @@
+slurmstepd: error: *** JOB 5844382 ON node15 CANCELLED AT 2023-10-22T18:17:07 DUE TO TIME LIMIT ***

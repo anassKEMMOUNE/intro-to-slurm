@@ -1,0 +1,1 @@
+/cm/local/apps/slurm/var/spool/job5844384/slurm_script: line 7: dummy_command: command not found
